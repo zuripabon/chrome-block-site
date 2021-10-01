@@ -11,4 +11,3 @@ export const websites: IWebsite[] = [
 	  host: "google"
 	}
 ]
-
