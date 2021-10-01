@@ -1,0 +1,13 @@
+*.swp
+*~
+*.swo
+.DS_Store
+node_modules/
+*.bson
+.vscode
+*.map
+*.zip
+dist/
+build/
+js/
+*.env
